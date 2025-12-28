@@ -9,7 +9,7 @@ editor.path-completion=false
 editor.auto-format=false
 editor.auto-info=false
 editor.true-color=true
-editor.rulers=[81]
+#editor.rulers=[81]
 editor.insert-final-newline=false
 
 editor.statusline.left=['mode','spinner','file-name']
@@ -18,7 +18,7 @@ editor.statusline.right=['selections','position']
 editor.lsp.enable=false
 
 editor.cursor-shape.normal='block'
-editor.cursor-shape.insert='bar'
+editor.cursor-shape.insert='block'
 editor.cursor-shape.select='block'
 
 editor.file-picker.hidden=false

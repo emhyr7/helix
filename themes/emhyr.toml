@@ -4,7 +4,8 @@
 'keyword'           ='magenta'
 'operator'          ='magenta'
 'punctuation'       ='magenta'
-'comment'           ='gray'
+#'comment'           ='gray'
+'comment'           ='red'
 
 'ui.selection' ={modifiers=['reversed']}
 'ui.statusline'={modifiers=['reversed']}

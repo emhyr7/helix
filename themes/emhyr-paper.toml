@@ -1,0 +1,4 @@
+inherits='emhyr'
+
+'ui.background'={bg='white'}
+'ui.text'='black'

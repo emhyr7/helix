@@ -3,3 +3,9 @@ name            ="c"
 indent          ={tab-width=2,unit="\t"}
 file-types      =["c","h"]
 language-servers=[]
+
+[[language]]
+name            ="glsl"
+indent          ={tab-width=2,unit="\t"}
+file-types      =["glsl"]
+language-servers=[]
