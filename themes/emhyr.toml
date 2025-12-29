@@ -1,6 +1,7 @@
 'string'            ='cyan'
 'constant.numeric'  ='cyan'
 'constant.character'='cyan'
+'constant.builtin'  ='magenta'
 'keyword'           ='magenta'
 'operator'          ='magenta'
 'punctuation'       ='magenta'
